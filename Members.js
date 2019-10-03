@@ -1,22 +1,22 @@
 const members = [
   {
     id: 1,
-    name: 'Memeber1',
-    email: 'jhondoe@gmail.com',
+    name: 'jilldoe',
+    email: 'jilldoe@gmail.com',
     status: 'active'
   },
   {
-    id: 3,
-    name: 'Peter soon',
-    email: 'peter@gmail.com',
+    id: 2,
+    name: 'Mark',
+    email: 'markjim@gmail.com',
     status: 'inactive'
   },
   {
-    id: 2,
-    name: 'Jsines',
-    email: 'dseix@gmail.com',
-    status: 'inactive'
-  }
+    id: 3,
+    name: 'Harry',
+    email: 'harrypotter@gmail.com',
+    status: 'active'
+  },
 ]
 
 module.exports = members;
